@@ -1,0 +1,14 @@
+.signup-container{
+    height: 400px;
+    width: 300px;
+    border: 1px solid grey;
+    padding: 30px;
+    border-radius: 8px;
+
+
+}
+.register-heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
