@@ -1,3 +1,17 @@
+Revisit Full Stack Project 
+
+Repositories 
+
+Frontend: Available in this repository.
+
+
+## Backend  Click here  (https://github.com/vicky848/revisit-backend-code.git) 
+
+ Deployment Links 
+
+ Backend API (Render) : https://revisit-backend-code.onrender.com
+
+
 Revisit is basic e-commerce web application built using the Mern stack .The goal of this project is to create a modular and scalable e-commerce platform with user authentication and category management features.
 
 Tech Stack Used
